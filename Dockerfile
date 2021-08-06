@@ -2,7 +2,7 @@ FROM node:latest
 
 MAINTAINER Vickey Sandhu
 
-RUN echo "Tryin to build my first application"
+RUN echo "Trying to build my first application"
 
 COPY . /var/www
 
